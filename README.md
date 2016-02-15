@@ -7,9 +7,13 @@
 
 ### npm
 
+```bash
    npm install yui3-contextual-reset
+```
 
 ### bower
 
+```bash
    bower install yui3-contextual-reset
+```
 
