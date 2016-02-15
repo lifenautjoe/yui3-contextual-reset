@@ -1,6 +1,6 @@
 {
   "name": "yui3-contextual-reset",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "authors": [
     "Joel Hernandez <bengaldevelop@gmail.com>"
   ],
@@ -24,6 +24,9 @@
     "css",
     "reset",
     "yahoo"
+  ],
+  "ignore" : [
+
   ],
   "homepage": "https://github.com/thefabulousdev/yui3-contextual-reset"
 }
