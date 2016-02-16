@@ -5,7 +5,7 @@ YUI3 Contextual Reset
 
 Shim repository for Yahoo's YUI3 Contextual CSS Reset.
 
-For exampes and documentation :
+For examples and documentation :
 http://yuilibrary.com/yui/docs/cssreset/#start-contextually
 
 Package Managers
