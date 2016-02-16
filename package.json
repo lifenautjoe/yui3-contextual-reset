@@ -1,6 +1,6 @@
 {
   "name": "yui3-contextual-reset",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "YUI3 Framework CSS contextual reset",
   "main": "cssreset-context.min.css",
   "scripts": {
