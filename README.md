@@ -1,19 +1,22 @@
+YUI3 Contextual Reset
+============
 
-# yui3-contextual-reset
+[![NPM](https://nodei.co/npm/yui3-contextual-reset.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/yui3-contextual-reset/)
 
-[Yahoo's YUI3 Framework](https://github.com/yui/yui3) CSS contextual reset to use as a bower or npm dependency
+Shim repository for Yahoo's YUI3 Contextual CSS Reset.
 
-## Installation
+For exampes and documentation :
+http://yuilibrary.com/yui/docs/cssreset/#start-contextually
 
-### npm
+Package Managers
+----------------
 
-```bash
-   npm install yui3-contextual-reset
-```
+* [Bower](http://bower.io): `yui3-contextual-reset`
+* [npm](https://www.npmjs.com): `yui3-contextual-reset`
 
-### bower
+License
+-------
 
-```bash
-   bower install yui3-contextual-reset
-```
+The YUI3 Library is licensed under the BSD License - https://opensource.org/licenses/BSD-3-Clause
 
+Copyright (c) 2013, Yahoo! Inc. All rights reserved.
